@@ -1,5 +1,7 @@
 # Build a web app fast (with piku)
 
+> This repository is a fork of [@amontalenti](https://github.com/amontalenti)'s [original lightning talk tutorial](https://github.com/amontalenti/webappfast-piku), and the `piku` project recognizes his authorship and ownership rights (as discussed in [#200](https://github.com/piku/piku/issues/200)). We are also very grateful for his contribution and sense of humor. 😄
+
 ## Quick start 🚀
 
 The assumption here is that you have a development environment as follows:
