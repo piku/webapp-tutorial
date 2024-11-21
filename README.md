@@ -330,7 +330,7 @@ deployment to `git` and server management to `ssh`, there is no need for
 frameworks beyond stock Python 3 and the UNIX shell.
 
 [git-pack-protocol]: https://github.com/git/git/blob/master/Documentation/technical/pack-protocol.txt
-[procfile]: https://github.com/piku/piku/blob/master/docs/DESIGN.md#procfile-format
+[procfile]: https://piku.github.io/configuration/procfile.html
 [cron]: https://uwsgi-docs.readthedocs.io/en/latest/Cron.html
 
 ### Where are the containers? Where is the orchestrator?
